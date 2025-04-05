@@ -1,4 +1,4 @@
-# Bentoit - Swift Student Challenge Submission
+ # Bentoit - Swift Student Challenge Submission
 ## Overview
 
 **Bentoit** is a tool designed to simplify the creation of professional marketing assets, specificly static and animated bento grids. It enables indie developers and creators to craft visually appealing promotional materials effortlessly in minutes - no graphic design skills.
@@ -20,7 +20,7 @@
   - iOS 18 Container APIs (e.g., Group(subviews:))
 
 ## Showcase
-
+https://github.com/user-attachments/assets/df339f68-029a-4e9e-b76d-20e738fe81d6
 
 ## Development Challenges
   - Building the Dynamic Layout:

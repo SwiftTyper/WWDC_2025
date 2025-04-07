@@ -14,10 +14,10 @@
   - Swift
   - SwiftUI
   - PhotoUI
-  - Metal (for custom shaders)
-  - AVFoundation (for video generation)
+  - Metal
+  - AVFoundation
   - TipKit
-  - iOS 18 Container APIs (e.g., Group(subviews:))
+  - New Container APIs (e.g., Group(subviews:))
 
 ## Showcase
 https://github.com/user-attachments/assets/df339f68-029a-4e9e-b76d-20e738fe81d6

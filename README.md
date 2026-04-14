@@ -4,12 +4,12 @@
 https://github.com/user-attachments/assets/df339f68-029a-4e9e-b76d-20e738fe81d6
  
 ## Overview
-**Bentoit** is a tool designed to simplify the creation of professional marketing assets, specificly static and animated bento grids. It enables indie developers and creators to craft visually appealing promotional materials effortlessly in minutes - no graphic design skills.
+**Bentoit** is a tool designed to simplify the creation of marketing assets, specificly static and animated bento grids. It enables indie developers and creators to craft visually appealing promotional materials in minutes - no graphic design skills.
 
 ## Features
   - **Dynamic Bento Layouts**: Drag, resize, add, or ditch elements with ease.
   - **Auto Generate Layouts**: Tap once, get a flawless layout.
-  - **Rich Content Integration**: Drop in text, symbols, and images.
+  - **Content Integration**: Drop in text, symbols, and images.
   - **Animations**: Make your grids pop with Metal and SwiftUI effects.
   - **Photo & Video Export**: Share your Bento grids anywhere.
 

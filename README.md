@@ -1,5 +1,8 @@
  # Bentoit - Swift Student Challenge Submission
- ![output](https://github.com/user-attachments/assets/0ff32c3f-31ff-4218-a39a-b9fa90e03c8d)
+
+## Showcase
+https://github.com/user-attachments/assets/df339f68-029a-4e9e-b76d-20e738fe81d6
+ 
 ## Overview
 **Bentoit** is a tool designed to simplify the creation of professional marketing assets, specificly static and animated bento grids. It enables indie developers and creators to craft visually appealing promotional materials effortlessly in minutes - no graphic design skills.
 
@@ -18,9 +21,6 @@
   - AVFoundation
   - TipKit
   - New Container APIs (e.g., Group(subviews:))
-
-## Showcase
-https://github.com/user-attachments/assets/df339f68-029a-4e9e-b76d-20e738fe81d6
 
 ## Development Challenges
   - Building the Dynamic Layout:
